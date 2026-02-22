@@ -20,3 +20,5 @@ setFactorFrame.lua
 factors.lua
 
 events_nonPlayerModels.lua
+
+debug_events.lua
